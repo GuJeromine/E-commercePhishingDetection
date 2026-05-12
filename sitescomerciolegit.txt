@@ -313,3 +313,8 @@ zeenow.com.br
 zeedog.com.br
 zattini.com.br
 youcom.com.br
+store.steampowered.com
+store.epicgames.com
+xbox.com
+vt.tiktok.com
+apple.com
